@@ -18,7 +18,7 @@ function eventBubble(count, area, innerText){
       <td>${area.toFixed(2)}</td>
       <p>cm<sup>2</sup></p>
       <td>
-      <button class='btn btn-primary mx-3'>Convert</button>
+      <button class='btn btn-primary mx-3'>Covert</button>
       </td>
     
     `;
